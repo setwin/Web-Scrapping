@@ -1,4 +1,2 @@
-## Beautiful Soup
-- https://github.com/setwin/Web-Scrapping/tree/Beautifull-Soup
-## Selenium
-- https://github.com/setwin/Web-Scrapping/tree/Selenium
+- https://www.youtube.com/watch?v=1227R6KY8Ts&t=644s
+- 
